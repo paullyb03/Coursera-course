@@ -13,7 +13,8 @@ h1 {
 }
 
 .box {
-	margin:10px;
+	margin-left:10px;
+  margin-right:10px;
 	border:2px solid black;
 	position: relative;
 	background-color: #ceeed9;
@@ -136,8 +137,8 @@ p {
 	bottom:2px;
 	left:2px;
 	text-align: center;
-    font-size: 1.25em;
-    padding-top: 5px;
+  font-size: 1.25em;
+  padding-top: 5px;
 }
 
 #chicken{
